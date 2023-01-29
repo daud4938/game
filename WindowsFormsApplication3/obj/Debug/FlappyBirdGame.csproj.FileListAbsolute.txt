@@ -1,0 +1,89 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Interop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\FlappyBirdGame.csproj.ResolveComReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Interop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.gamescreen.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.help_and_information.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\FlappyBirdGame.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\FlappyBirdGame.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.ResolveComReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.gamescreen.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.help_and_information.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.ResolveComReference.cache
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.gamescreen.resources
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.help_and_information.resources
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ASUS\Documents\t\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.ResolveComReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.gamescreen.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.help_and_information.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ASUS\Documents\Visual Studio 2019\New folder\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.gamescreen.resources
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\FlappyBirdGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.High_score.resources
